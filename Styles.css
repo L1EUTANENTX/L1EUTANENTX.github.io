@@ -1,0 +1,19 @@
+.mainheader{
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.subheader {
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.nav {
+    text-align: center;
+    background-color: white;
+    padding-top: 10px;
+}
